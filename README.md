@@ -19,4 +19,19 @@ Login → Dashboard
 Register → Login  
 Forgot Password → Reset Password → Login  
 
-This repository was created as part of internship training assignment.
+## Screenshots
+
+### Login Page
+![Login](screenshots/login.png)
+
+### Register Page
+![Register](screenshots/register.png)
+
+### Forgot Password
+![Forgot](screenshots/forgot.png)
+
+### Reset Password
+![Reset](screenshots/reset.png)
+
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
